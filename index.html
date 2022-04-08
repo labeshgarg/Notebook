@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notes</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- NAV BAR -->
+    <nav class="navbar">
+      <div class="left-navbar">
+        <img src="images/logo.png" alt="logo" />
+        <a href="#">Keeper</a>
+       
+      </div>
+      <div class="right-navbar">
+        <button id="darkmode" onclick="darkmode()">Toggle dark mode</button>
+        <div class="search-bar">
+          <input id="search-note" type="search" placeholder="Search here" />
+          <img src="images/search.png" />
+        </div>
+      </div>
+    </nav>
+    <hr />
+    <!-- MAIN CONTENT -->
+    <h1>Welcome to the keeper</h1>
+    <hr />
+    <div class="main-container">
+      <h3>Add a note</h3>
+      <div class="title">
+        <textarea id="title" placeholder="Enter the title"></textarea>
+      </div>
+
+      <div class="txtarea">
+        <textarea id="textarea" placeholder="Enter your notes"></textarea>
+      </div>
+      <button id="addTxt">Add Note</button>
+    </div>
+    <hr />
+    <!-- <div class="display-note">
+        <div class="note-body">
+            <h4 class="note-title">Note</h4>
+            <p class="note-content">hello world</p>
+            <button id="delete">Delete</button>
+        </div>
+    </div> -->
+    <div id="notes"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
