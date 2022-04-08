@@ -10,7 +10,7 @@ The following operations which can be performed:-
 2- Delete a note.   
 3- Search for a note based on the content.  
 
-**Tech stack:**  
+## **Tech stack:**   
 1- HTML   
 2- CSS  
 3- JavaScript
@@ -19,20 +19,20 @@ I have also included a toggle button for light mode and dark mode.
 
 
 
-## Demo 
-1- **Adding a note**   
+# Demo 
+## 1- **Adding a note**   
 A user can easily add a note just by adding a title and a content and then clicking   
 on the **add note** button.
 
 ![](https://github.com/labeshgarg/Notebook/blob/main/GIF/adding.GIF)
 
-2- **Deleting a note**   
+## 2- **Deleting a note**   
 A user can simply delete a note just by clicking on the **delete** button present at  
 every note card.
 
 ![](https://github.com/labeshgarg/Notebook/blob/main/GIF/Deleting.GIF)
 
-3- **Searching for a note**   
+## 3- **Searching for a note**   
 Searching for a note becomes simple just by typing a few words of the content from the note.
 
 ![](https://github.com/labeshgarg/Notebook/blob/main/GIF/searching.GIF)
