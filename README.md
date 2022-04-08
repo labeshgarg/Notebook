@@ -17,6 +17,14 @@ A simple note storing book where a user can perform operations:-
 ## Demo 
 1- **Adding a note**
 
-<p img align='right' src = "GIF/adding.GIF" width = "500" height = "320" /></p>
+![](https://github.com/labeshgarg/Notebook/blob/main/GIF/adding.GIF)
+
+2- **Deleting a note**
+
+![](https://github.com/labeshgarg/Notebook/blob/main/GIF/Deleting.GIF)
+
+3- **Searching for a note**
+
+![](https://github.com/labeshgarg/Notebook/blob/main/GIF/searching.GIF)
 
 
