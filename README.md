@@ -37,4 +37,4 @@ Searching for a note becomes simple just by typing a few words of the content fr
 
 ![](https://github.com/labeshgarg/Notebook/blob/main/GIF/searching.GIF)
 
-
+#### NOTE:- No media query has been added, will be updating that soon.
